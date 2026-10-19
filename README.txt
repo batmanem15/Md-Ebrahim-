@@ -1,29 +1,22 @@
-MD EBRAHIM — PERSONAL PORTFOLIO
-================================
+MD EBRAHIM — PORTFOLIO UPDATE
 
-Files
-- index.html: website content
-- style.css: styling and responsive layout
-- script.js: mobile menu, reveal animations, current year
+Details included:
+- Name: MD Ebrahim
+- Role: Operations & Technology
+- Email: emd979460@gmail.com
+- WhatsApp: 01906635644
+- Location: Dhaka, Bangladesh
+- GitHub: https://github.com/batmanem15
 
-PREVIEW LOCALLY
-1. Extract the ZIP file.
-2. Open index.html in your browser.
+Files: index.html, style.css, script.js, README.txt.
+Add your own photo as profile.jpg to the repository root.
 
-PUBLISH FREE WITH GITHUB PAGES
-1. Sign in or create an account at https://github.com/
-2. Create a new public repository, for example: md-ebrahim-portfolio
-3. Upload index.html, style.css, and script.js to the repository root.
-4. Open repository Settings -> Pages.
-5. Under Build and deployment, choose "Deploy from a branch".
-6. Select branch "main" and folder "/ (root)", then Save.
-7. Wait for deployment. Your site will be available at a URL like:
-   https://YOUR-USERNAME.github.io/md-ebrahim-portfolio/
+On GitHub mobile:
+1. Open https://github.com/batmanem15/Md-Ebrahim-
+2. Open index.html -> pencil/Edit -> replace all content with this package's index.html -> Commit changes.
+3. Repeat for style.css.
+4. Add file -> Upload files -> upload profile.jpg -> Commit changes.
+5. Keep all files in the repository root, beside index.html.
+6. Wait a few minutes and refresh the live website.
 
-BEFORE PUBLISHING
-- Replace "Add your email" and the placeholder email in index.html.
-- Replace generic LinkedIn and GitHub links with your own profile URLs.
-- Confirm the Carrybee experience description accurately represents your role.
-- Add your college name, passing year, and any photo you want to display.
-- Skill bars are visual design elements, not verified skill ratings.
-- This website is a static template; it is not online until you publish it.
+Privacy: your email and WhatsApp number will be visible to anyone visiting the public portfolio.
